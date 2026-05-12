@@ -20,7 +20,7 @@ jobs:
 
     # WHERE to run
 
-    runs-on: anos
+    runs-on: anos-1
 
     steps:
 
